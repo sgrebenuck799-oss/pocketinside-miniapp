@@ -83,8 +83,9 @@
     tg.ready();
     tg.expand();
 
-    const API_URL =
-      "https://pocketinside-api.sgrebenuck-799.workers.dev";
+    const MINI_APP_URL =
+  "https://tiny-wind-710a.sgrebenuck-799.workers.dev";
+
 
     const status = document.getElementById("status");
     const button = document.getElementById("checkButton");
